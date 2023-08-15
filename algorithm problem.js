@@ -29,7 +29,7 @@ for(let i=0;i>arr.length;i++)
 }
 console.log("smallest number is:",min);
 
-
+//    4.	Find the sum of array .
 let arr1 = [10, 20, 30, 40, 50];
 let sum2 = 0;
 
