@@ -38,3 +38,20 @@ for (let i = 0; i < arr1.length; i++) {
 }
 
 console.log("sum is : ",sum2);
+
+
+// by using Math.min() function find smallest num
+
+let ar=[24,42,76,67,21];
+
+let result= Math.min (...ar);
+console.log("smallest number is :", result);
+
+// largest number using Math.max()
+
+let ar3=[09,498,35,14,66,97];
+let max1=Math.max(...sar3);
+console.log(" largest number is :",max1);
+
+
+
